@@ -24,3 +24,6 @@ router.route("/delete/:id").delete(userController.userDeleted)
 
 
 module.exports = router
+
+
+
